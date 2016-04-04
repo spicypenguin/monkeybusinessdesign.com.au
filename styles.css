@@ -1,0 +1,20 @@
+.container {
+	width: 467px;
+	margin: 250px auto 0 auto;
+}
+
+p {
+	padding-top: 5px;
+	text-align: center;
+}
+
+a.contact_link {
+	color: #29B8F3;
+	text-decoration: none;
+	font-family: Arial;
+}
+
+a.contact_link:hover {
+	color: #185D7A;
+	border-bottom:1px dashed;
+}
